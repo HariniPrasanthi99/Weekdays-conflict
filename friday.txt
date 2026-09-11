@@ -1,1 +1,4 @@
-friday also we learnt how to do it 
+friday also we learnt how to do it. we will add python code and try to merge september branch's thursday.txt and this main branch's friday.txt and see if any conflict arises. a = 5
+b = 6
+c = a + b
+print(c)   
