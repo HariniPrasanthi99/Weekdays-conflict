@@ -1,0 +1,1 @@
+Thursday (08/09/26) we learnt new techniques called branching, merging and how to resolve conflicts during merging, at least got to know how senior developers solve conflicts.
