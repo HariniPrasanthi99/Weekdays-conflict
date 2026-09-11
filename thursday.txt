@@ -1,3 +1,33 @@
+Thursday (08/09/26) we learnt new techniques called branching, merging and how to resolve conflicts during merging, at least got to know how senior developers solve conflicts. we will alter the file and make sure it creates a conflict while merging.
+we will add java code: import java.util.Scanner;
+
+class Student {
+    private String name;
+    private String subject;
+    private int mark;
+
+    // Constructor to initialize student details
+    public Student(String name, String subject, int mark) {
+        this.name = name;
+        this.subject = subject;
+        this.mark = mark;
+    }
+
+    // Method to display student details
+    public void displayDetails() {
+        System.out.println("Student Name: " + name);
+        System.out.println("Subject: " + subject);
+        System.out.println("Mark: " + mark);
+    }
+
+    public static void main(String[] args) {
+        // Create a Student object with the specified details
+        Student student1 = new Student("Harini", "Criminology", 90);
+        
+        // Display the details
+        student1.displayDetails();
+    }
+}   
 Thursday (08/09/26) we learnt new techniques called branching, merging and how to resolve conflicts during merging, at least got to know how senior developers solve conflicts. we will add python code and try to merge september branch's thursday.txt and this main branch's friday.txt and see if any conflict arises. a = 5
 b = 6
 c = a + b
